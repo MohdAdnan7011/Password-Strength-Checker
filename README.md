@@ -21,3 +21,6 @@ Weak: Missing length or character requirements
 Medium: Missing special characters
 
 Strong: Meets all security criteria
+
+Author: Mohd Adnan
+
